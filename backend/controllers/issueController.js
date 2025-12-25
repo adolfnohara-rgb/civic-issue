@@ -3,8 +3,9 @@ const Issue = require("../models/Issue");
 // CREATE ISSUE (Citizen)
 exports.createIssue = async (req, res) => {
   try {
-    const { title, description, category, latitude, longitude, imageUrl } =
+    const { title, description, category, latitude, longitude } =
       req.body;
+    const imageUrl = req.file.path;
 
     const issue = await Issue.create({
       title,
