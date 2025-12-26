@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "road-maintenance",
+      "name": "Road Maintenance",
+      "icon": "issue-pothole.svg",
+      "color": "#FF6B35",
+      "description": "Potholes, road damage, construction issues"
+    },
+    {
+      "id": "street-lighting",
+      "name": "Street Lighting",
+      "icon": "issue-streetlight.svg",
+      "color": "#F7931E",
+      "description": "Broken or dim street lights, electrical issues"
+    },
+    {
+      "id": "waste-management",
+      "name": "Waste Management",
+      "icon": "issue-garbage.svg",
+      "color": "#4CAF50",
+      "description": "Overflowing bins, missed collections, illegal dumping"
+    },
+    {
+      "id": "water-supply",
+      "name": "Water Supply",
+      "icon": "issue-water.svg",
+      "color": "#2196F3",
+      "description": "Water leaks, supply issues, quality concerns"
+    },
+    {
+      "id": "traffic-signals",
+      "name": "Traffic Signals",
+      "icon": "issue-traffic.svg",
+      "color": "#9C27B0",
+      "description": "Malfunctioning traffic lights, timing issues"
+    },
+    {
+      "id": "parks-recreation",
+      "name": "Parks & Recreation",
+      "icon": "issue-park.svg",
+      "color": "#8BC34A",
+      "description": "Park maintenance, playground issues, green spaces"
+    }
+  ]
+}

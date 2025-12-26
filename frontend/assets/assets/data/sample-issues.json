@@ -1,0 +1,50 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "title": "Pothole on Main Street",
+      "description": "Large pothole causing traffic issues near the intersection",
+      "category": "Road Maintenance",
+      "status": "pending",
+      "location": {
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "address": "123 Main Street, City"
+      },
+      "reportedBy": "citizen123",
+      "reportedAt": "2024-12-20T10:30:00Z",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "Broken Street Light",
+      "description": "Street light not working, creating safety concerns",
+      "category": "Street Lighting",
+      "status": "in-progress",
+      "location": {
+        "latitude": 40.7589,
+        "longitude": -73.9851,
+        "address": "456 Oak Avenue, City"
+      },
+      "reportedBy": "citizen456",
+      "reportedAt": "2024-12-19T14:15:00Z",
+      "priority": "medium"
+    },
+    {
+      "id": 3,
+      "title": "Overflowing Garbage Bin",
+      "description": "Public garbage bin overflowing, attracting pests",
+      "category": "Waste Management",
+      "status": "resolved",
+      "location": {
+        "latitude": 40.7505,
+        "longitude": -73.9934,
+        "address": "789 Park Lane, City"
+      },
+      "reportedBy": "citizen789",
+      "reportedAt": "2024-12-18T09:45:00Z",
+      "resolvedAt": "2024-12-20T16:30:00Z",
+      "priority": "low"
+    }
+  ]
+}
